@@ -1,0 +1,17 @@
+body{
+    font-family: 'Pangolin';
+    background-size: 1600px 770px;
+}
+
+#input{
+    width: 20%;
+}
+
+h1{
+    text-shadow: 2px 1px black;
+}
+
+canvas{
+    border-radius: 1000px;
+    margin-top: 180px;
+}
